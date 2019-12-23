@@ -2,7 +2,7 @@ import React from "react"
 import { Link, graphql } from "gatsby"
 import styled from "styled-components"
 
-import Me from "../components/Me"
+import Me from "../components/me"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
@@ -28,12 +28,8 @@ const PostContainer = styled.article`
   img {
     max-width: 300px;
 
-  }
-
-
-  
+  } 
 `
-
 class BlogPostTemplate extends React.Component {
   render() {
     const post = this.props.data.markdownRemark
