@@ -135,7 +135,7 @@ const Me = ({ trimmed }) => {
   useEffect(() => {
     if (!query) {
       fetch(
-        "http://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=samaysham&api_key=8203b31435c3c55fa3e2d59f73a6453a&format=json"
+        "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=samaysham&api_key=8203b31435c3c55fa3e2d59f73a6453a&format=json"
       )
         .then(res => res.json())
         .then(
