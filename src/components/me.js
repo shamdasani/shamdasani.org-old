@@ -228,7 +228,7 @@ const Me = ({ trimmed }) => {
               📹 Vlogging on{" "}
               <b>
                 {" "}
-                <Link href="https://www.youtube.com/channel/UCgAp2iSxEwtZ13hWwLDfksAg">
+                <Link href="https://www.youtube.com/channel/UCgAp2iSxEwtZ13hWwLDfksA">
                   YouTube
                 </Link>{" "}
               </b>
