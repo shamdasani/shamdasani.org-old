@@ -3,10 +3,6 @@ import styled from 'styled-components'
 
 const CounterText = styled.p`
   display: inline-block;
-
-span {
-  font-weight: bold;
-}
 `
 class ViewCounter extends Component {
   constructor(props) {
@@ -25,7 +21,7 @@ class ViewCounter extends Component {
 
   render() {
     const { hits } = this.state
-    return <CounterText>&nbsp;-<span>{hits}</span> views</CounterText>
+    return <CounterText>&nbsp;<b>{hits}</b> views</CounterText>
   }
 }
 
