@@ -207,4 +207,4 @@ There's nothing like being home for the holidays.
 - Vlog college experience. Make a few (2-4) videos every month. 
 - Work out every day — no matter what. (Run, gym, body weight...)
 - Make at least 30 minutes every day for personal time — meditation, reading, etc.
-
+- Bootstrap a small, lifestyle business to bring in passive income 
