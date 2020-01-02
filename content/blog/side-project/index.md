@@ -2,7 +2,7 @@
 title: "My side project"
 date: "2017-10-13"
 id: "side-project"
-bg: "linear-gradient(to right, #232526, #414345);"
+description: A new venture
 
 ---
 

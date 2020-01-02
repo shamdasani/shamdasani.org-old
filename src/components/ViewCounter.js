@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import styled from 'styled-components'
 
-const CounterText = styled.p`
+const CounterText = styled.span`
   display: inline-block;
 `
 class ViewCounter extends Component {

@@ -250,6 +250,15 @@ const Me = ({ trimmed }) => {
               <Row>
                 <Col sm={12} md={4}>
                   <article>
+                    <Link href="https://enlight.nyc">
+                      <b>Enlight</b>
+                      <br />
+                      <sub> Learn to code by building projects.</sub>
+                    </Link>
+                  </article>
+                </Col>
+                <Col sm={12} md={4}>
+                  <article>
                     <Link href="https://makespp.com">
                       <b>MakeSPP</b>
                       <br />
@@ -274,19 +283,20 @@ const Me = ({ trimmed }) => {
                     </Link>
                   </article>
                 </Col>
+              </Row>
+              <Row>
                 <Col sm={12} md={4}>
                   <article>
-                    <Link href="https://github.com/shamdasani/SwiftFrameworks">
-                      <b>Swift Frameworks</b>
-
+                    <Link href="https://ticktockinc.com">
+                      <b>Tick Tock Inc.</b>
                       <br />
-
-                      <sub> Accepted WWDC18 Swift Playground Submission</sub>
+                      <sub>
+                        Client e-commerce site. 1000+ products, generated from a
+                        spreadsheet.
+                      </sub>
                     </Link>
                   </article>
                 </Col>
-              </Row>
-              <Row>
                 <Col sm={12} md={4}>
                   <article>
                     <Link href="https://vidyapith-act.netlify.com/">
@@ -297,25 +307,15 @@ const Me = ({ trimmed }) => {
                     </Link>
                   </article>
                 </Col>
+               
                 <Col sm={12} md={4}>
                   <article>
-                    <Link href="https://github.com/shamdasani/peters">
-                      <b>Peter's</b>
+                    <Link href="https://github.com/shamdasani/SwiftFrameworks">
+                      <b>Swift Frameworks</b>
+
                       <br />
-                      <sub>
-                        {" "}
-                        Cross-platform app for Saint Peter's Prep students built
-                        with React Native
-                      </sub>
-                    </Link>
-                  </article>
-                </Col>
-                <Col sm={12} md={4}>
-                  <article>
-                    <Link href="http://color.shamdasani.org/">
-                      <b>Color</b>
-                      <br />
-                      <sub> Simple color contrast generator</sub>
+
+                      <sub> Accepted WWDC18 Swift Playground Submission</sub>
                     </Link>
                   </article>
                 </Col>

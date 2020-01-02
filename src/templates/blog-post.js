@@ -11,15 +11,58 @@ const PostContainer = styled.article`
   max-width: 40em;
   line-height: 1.5;
   margin: 0 auto;
+  color: #333;
 
   h1 {
-    font-size: 48px;
+    font-size: 2.5rem;
     text-align: center;
+    margin-bottom: 0;
   }
 
-  p.date {
-    text-align: right;
+  .center {
+    text-align: center;
+    font-size: 1.5rem;
+    color: #626262;
+    margin-top: 0;
+  }
+
+  .date {
     font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    font-weight: bold;
+  }
+
+  .views {
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 0px;
+    font-weight: bold;
+  }
+
+  .stat {
+    text-align: center;
+    font-size: 1.5rem;
+    span {
+      font-weight: 600;
+    }
+  }
+
+  .small {
+    text-align: center;
+    font-size: 1.1rem;
+    color: #626262;
+    margin-top: 0;
+  }
+
+
+  .inline {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .tc {
+    text-align: center;
   }
 
   section {
@@ -39,6 +82,8 @@ const PostContainer = styled.article`
       border-bottom: none;
     }
   }
+
+
 `
 class BlogPostTemplate extends React.Component {
   render() {
@@ -61,9 +106,13 @@ class BlogPostTemplate extends React.Component {
           <PostContainer>
             <header>
               <h1>{post.frontmatter.title}</h1>
-              <p className="date">
-                {post.frontmatter.date} | <ViewCounter id={id} />
-              </p>
+              <p className="center">{post.frontmatter.description}</p>
+              <div className="inline">
+                <p className="date">{post.frontmatter.date}</p>
+                <p className="views">
+                  <ViewCounter id={id} />
+                </p>
+              </div>
             </header>
             <section dangerouslySetInnerHTML={{ __html: post.html }} />
             <nav>

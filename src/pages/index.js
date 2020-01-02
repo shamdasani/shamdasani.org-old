@@ -19,14 +19,12 @@ const PostLink = styled(Link)`
   &:hover {
     opacity: 0.6;
   }
-
-  
 `
 
 const PostsList = styled.div`
-article {
-  margin-left: 16px;
-}
+  article {
+    margin-left: 16px;
+  }
 `
 
 class BlogIndex extends React.Component {
@@ -43,25 +41,28 @@ class BlogIndex extends React.Component {
           <b>Essays</b>
         </PostsTitle>
         <PostsList>
-        {posts.map(({ node }) => {
-          const title = node.frontmatter.title || node.fields.slug
-          return (
-            <article key={node.fields.slug}>
-              <header>
-                <h3>
-                  <PostLink style={{ boxShadow: `none` }} to={node.fields.slug}>
-                    {title}
-                  </PostLink>
-                </h3>
-              </header>
-            </article>
-          )
-        })}
+          {posts.map(({ node }) => {
+            const title = node.frontmatter.title || node.fields.slug
+            const description = node.frontmatter.description
+            return (
+              <article key={node.fields.slug}>
+                <header>
+                  <h3>
+                    <PostLink
+                      style={{ boxShadow: `none` }}
+                      to={node.fields.slug}
+                    >
+                      {title}
+                    </PostLink>
+                  </h3>
+                </header>
+              </article>
+            )
+          })}
         </PostsList>
-        <br/>
-        <br/>
-        <br/>
-
+        <br />
+        <br />
+        <br />
       </Layout>
     )
   }
