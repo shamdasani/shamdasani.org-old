@@ -8,11 +8,11 @@ description: It's been an incredible decade. Here's to the next.
 
 **What a decade.** Where do I even _start_?
 
-Well, I just finished my first semester at Michigan. It's been an amazing four months. I've met so many talented people, learned everything from calculating gradients in Multivariable Calculus to evaluating valuations of public companies, and experienced part of all that college has to offer.
+Well, I just finished my first semester at Michigan. It's been an amazing four months. I've met so many talented people, learned a ton, and experienced part of all that college has to offer.
 
 Although I've missed my family and friends from back home, I've also enjoyed college life. While the food is alright and the dorms aren't nothing like home, the new experiences and friends make up for it!
 
-But to be honest, I still just can't believe it. Everything's flying by.
+But to be honest, I still just can't believe it. I'm 18, *officially* an adult. Everything's flying by.
 
 Here are some metrics over the past year:
 
@@ -30,7 +30,7 @@ Here are some metrics over the past year:
 
 
 <p class="stat"><span>5</span> books read </p>
-<p class="small">(Meditiations, When Breath Becomes Air, How to Win Friends, 12 Rules for Life, Sapiens) I've invested my time in many blogs and podcasts, but did some reading too. I'd like to focus on reading more in 2020.</p>
+<p class="small">(Meditiations, When Breath Becomes Air, How to Win Friends, 12 Rules for Life, Sapiens) I've invested my time in many blogs and podcasts, but did some reading too. I'd like to focus on reading more in 2020 (1 book/month).</p>
 
 <p class="stat"><span>365</span> journal entries </p>
 <p class="small">This was my first year journalling! I'm so glad I did it and will countinue to do so. I started in October 2018 (early in my Senior year) on a Google Doc, but transitioned to a physical journal shortly thereafter.</p>
@@ -52,18 +52,20 @@ Since I was in the 7th grade, I've been shoveling driveways with friends — ear
 ### March 2019
 
 #### Mom Prom
+I'd say that this event is fairly unique to my all-boys Catholic high school — prom, but with our moms!
+
 ![Mom Prom](momprom.JPG)
 
 ### April 2019
 
-#### Directed the largest high-school hackathon in the tri-state area
+#### Directed the largest high-school hackathon in the tri-state area: MakeSPP 2.0
 
 120+ students, 20+ mentors, raised $8k+ (https://makespp.com)
 
 ![MakeSPP](makespp.jpg)
 
 #### Commited to college 
-I committed to the University of Michigan, Ann Arbor on April X, 2019
+I committed to the University of Michigan, Ann Arbor on April 12th, 2019.
 
 I was absolutely ecstatic to find out that no-one had claimed the uniqname "samay". Shoot me an email sometime! :) [samay@umich.edu](mailto:samay@umich.edu)
 
@@ -148,12 +150,15 @@ Made [this](https://www.youtube.com/watch?v=NTlUgJYtWtA) sick video.
 
 ![fbgame](fbgame1.jpg)
 
-#### Ran my first collegiate 8k race. 29:09 for 5 miles (~5:50 pace)
+#### Ran my first collegiate 8k race. 
+29:09 for 5 miles (~5:50 pace)
+
 ![mrun](mrun.JPG)
 
 ### October 2019
 
 #### Michigan Business Challenge w/ Jason, Varun, & Sean
+We got cut the second round. Our idea was a data platform to centralize data sources and manipulation pipelines (esp. at startups).
 
 ![business](business.JPG)
 
@@ -163,7 +168,7 @@ Made [this](https://www.youtube.com/watch?v=NTlUgJYtWtA) sick video.
 
 ![IASA](iasa.JPG)
 
-#### Thanksgiving @ Home
+#### Thanksgiving w/ fam
 
 ![thanksgiving](thanksgiving.JPG)
 
@@ -171,9 +176,12 @@ Made [this](https://www.youtube.com/watch?v=NTlUgJYtWtA) sick video.
 
 #### Survived my first semester 
 
-ENGR 151: Intermediate Computer Programming in C++, COGSCI 200: Intro to Cognitive Science, PHYSICS 140: Mechanics, & MATH 215: Multivariable Caluculus
+- ENGR 151: Intermediate Computer Programming in C++
+- COGSCI 200: Intro to Cognitive Science
+- PHYSICS 140: Mechanics
+- MATH 215: Multivariable Caluculus
 
-It was tough, but fun semester!
+It was tough, but a fun semester!
 
 ![friends2](friends2.png)
 
@@ -185,7 +193,7 @@ There's nothing like being home for the holidays.
 
 ![holidays](holidays.jpg)
 
-![holidays2](holidays2.JPG)
+![holidays1](holidays1.jpg)
 
 ### What's next
 
@@ -193,17 +201,10 @@ There's nothing like being home for the holidays.
 
 - [Enlight 3.0](https://enlight.nyc)
 
-<!-- 
-Things I've done well:
+### 2020 Goals
 
-- Journalling (documenting life)
+- Write more. At least 12 blog posts (one / month)
+- Vlog college experience. Make a few (2-4) videos every month. 
+- Work out every day — no matter what. (Run, gym, body weight...)
+- Make at least 30 minutes every day for personal time — meditation, reading, etc.
 
-Things I'd like to do:
-
-- Write 12 blog posts. At least one a month. This is my only post of 2019 (excluding last year's review post)
-- READ
-- Vlog college xperience. 1 video/ week -- ODCUMENT more!
-- Work out every day no matter what.
-- Make more personal time --meditation, reading,e tc.... balance!! from school and work
-
-Reading List: -->
