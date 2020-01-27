@@ -204,11 +204,11 @@ const Me = ({ trimmed }) => {
             <article>
               📖 Reading{" "}
               <b>
-                <Link href=" http://will-durant.com/pleasures.htm">
-                  The Pleasures of Philosophy
+                <Link href="https://www.goodreads.com/en/book/show/42348376-secrets-of-sand-hill-road">
+                  Secrets of Sand Hill Road
                 </Link>
               </b>{" "}
-              by Will Durant
+              by Scott Kupor
             </article>
 
             <article>
