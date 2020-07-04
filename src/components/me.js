@@ -204,11 +204,11 @@ const Me = ({ trimmed }) => {
             <article>
               📖 Reading{" "}
               <b>
-                <Link href="https://www.goodreads.com/en/book/show/42348376-secrets-of-sand-hill-road">
-                  Secrets of Sand Hill Road
+                <Link href="http://www.metaphysicspirit.com/books/The%204-Hour%20Workweek.pdf">
+                  The Four Hour Workweek
                 </Link>
               </b>{" "}
-              by Scott Kupor
+              by Tim Feriss
             </article>
 
             <article>
