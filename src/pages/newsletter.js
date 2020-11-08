@@ -22,15 +22,20 @@ const Newsletter = () => {
       <SEO title="Samay Shamdasani" />
       <div className="sm:flex sm:items-center sm:h-screen p-4">
         <div className="font-sans mx-auto">
-          <h1 className="text-gray-900 tracking-tighter mb-1 text-4xl">
-            Subscribe to{" "}
-            <span className="text-gradient bg-gradient-to-r from-pink-400 via-indigo-400 to-blue-500">
-              thoughts
+          <h2 className="text-gray-700 mt-0 mb-0 text-base tracking-wide uppercase mb-0 pb-0">
+            Weekly Newsletter
+          </h2>
+          <h1 className="text-gray-900 tracking-tighter mb-1 text-5xl mt-0">
+            <span className="text-gradient bg-gradient-to-r from-pink-400 via-indigo-400 to-blue-500 pr-2">
+              Thoughts
             </span>{" "}
           </h1>
+
           <h2 className="text-gray-800 mt-0 mb-0 text-2xl tracking-tight">
-            A weekly newsletter on what I'm learning, thinking, and building.
+            Interesting thoughts on technology, philosophy, the future, and
+            everything in between.
           </h2>
+
           <div className="sm:flex py-2">
             <div className="sm:w-1/3 mr-6">
               <label className="block text-base mb-2 mt-4 text-gray-700">
@@ -113,7 +118,7 @@ const Newsletter = () => {
               target="_blank"
               className="text-blue-500 no-underline hover:opacity-75"
             >
-              @samaysham
+              shamdasani.org
             </a>
           </div>
           {/* <div>
