@@ -20,7 +20,7 @@ const Newsletter = () => {
   return (
     <main>
       <SEO title="Samay Shamdasani" />
-      <div className="flex items-center h-screen p-4">
+      <div className="sm:flex sm:items-center sm:h-screen p-4">
         <div className="font-sans mx-auto">
           <h1 className="text-gray-900 tracking-tighter mb-1 text-4xl">
             Subscribe to{" "}
@@ -40,7 +40,7 @@ const Newsletter = () => {
                 name="first"
                 type="text"
                 required
-                class="shadow w-full outline-none appearance-none px-2 py-3 border-none text-base leading-6 rounded-md text-gray-900 bg-white placeholder-gray-500 focus:outline-none focus:shadow-outline focus:border-blue-300 transition duration-150 ease-in-out sm:max-w-xs mr-2"
+                class="ios shadow w-full outline-none appearance-none px-2 py-3 border-none text-base leading-6 rounded-md text-gray-900 bg-white placeholder-gray-500 focus:outline-none focus:shadow-outline focus:border-blue-300 transition duration-150 ease-in-out sm:max-w-xs mr-2"
                 placeholder="Samay"
                 onChange={handleInputChange}
                 value={form.first}
@@ -55,7 +55,7 @@ const Newsletter = () => {
                 name="last"
                 type="text"
                 required
-                class="w-full shadow outline-none appearance-none px-2 py-3 border-none text-base leading-6 rounded-md text-gray-900 bg-white placeholder-gray-500 focus:outline-none focus:shadow-outline focus:border-blue-300 transition duration-150 ease-in-out sm:max-w-xs mr-2"
+                class="ios w-full shadow outline-none appearance-none px-2 py-3 border-none text-base leading-6 rounded-md text-gray-900 bg-white placeholder-gray-500 focus:outline-none focus:shadow-outline focus:border-blue-300 transition duration-150 ease-in-out sm:max-w-xs mr-2"
                 placeholder="Shamdasani"
                 onChange={handleInputChange}
                 value={form.last}
@@ -71,7 +71,7 @@ const Newsletter = () => {
                 aria-label="Email address"
                 type="email"
                 required
-                class="w-full shadow outline-none appearance-none px-2 py-3 border-none text-base leading-6 rounded-md text-gray-900 bg-white placeholder-gray-500 focus:outline-none focus:shadow-outline focus:border-blue-300 transition duration-150 ease-in-out sm:max-w-xs"
+                class="ios w-full shadow outline-none appearance-none px-2 py-3 border-none text-base leading-6 rounded-md text-gray-900 bg-white placeholder-gray-500 focus:outline-none focus:shadow-outline focus:border-blue-300 transition duration-150 ease-in-out sm:max-w-xs"
                 placeholder="samay@shamdasani.org"
                 onChange={handleInputChange}
                 value={form.email}
