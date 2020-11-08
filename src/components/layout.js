@@ -31,7 +31,7 @@ class Layout extends React.Component {
     if (location.pathname === rootPath) {
       header = <div />
     } else {
-      header = <Link to="/"><h3>Essays by Samay Shamdasani</h3></Link>
+      header = <Link to="/"><h3 className="font-bold">Essays by Samay Shamdasani</h3></Link>
     }
     return (
       <Container>

@@ -1,11 +1,12 @@
 module.exports = {
   siteMetadata: {
-      title: "Samay Shamdasani",
-      author: "Samay Shamdasani",
-      description: "home of @samaysham on the web",
-      siteUrl: "https://shamdasani.org/",
+    title: "Samay Shamdasani",
+    author: "Samay Shamdasani",
+    description: "home of @samaysham on the web",
+    siteUrl: "https://shamdasani.org/",
   },
   plugins: [
+    `gatsby-plugin-postcss`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -53,7 +54,8 @@ module.exports = {
     `gatsby-plugin-feed`,
     `gatsby-plugin-offline`,
     `gatsby-plugin-react-helmet`,
-    `gatsby-plugin-styled-components`,{
+    `gatsby-plugin-styled-components`,
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `samay-shamdasani`,

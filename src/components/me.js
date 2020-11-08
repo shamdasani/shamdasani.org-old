@@ -155,7 +155,7 @@ const Me = ({ trimmed }) => {
       <Flex>
         <Image fixed={picture.avatar.childImageSharp.fixed} />
         <Hey>
-          <h1>Samay Shamdasani</h1>
+          <h1 className="font-bold">Samay Shamdasani</h1>
         </Hey>
       </Flex>
 
@@ -172,6 +172,7 @@ const Me = ({ trimmed }) => {
         </Link>
         .
       </About>
+
       <Button bg="#357edd" href="https://twitter.com/samaysham">
         Twitter
       </Button>
@@ -196,12 +197,12 @@ const Me = ({ trimmed }) => {
         <div>
           <About>
             <Subtitle>
-              <b>Now</b>
+              Now
             </Subtitle>
 
             <article>📚 CS @ University of Michigan, Ann Arbor.</article>
 
-            <article>
+            {/* <article>
               📖 Reading{" "}
               <b>
                 <Link href="http://www.metaphysicspirit.com/books/The%204-Hour%20Workweek.pdf">
@@ -209,23 +210,21 @@ const Me = ({ trimmed }) => {
                 </Link>
               </b>{" "}
               by Tim Feriss
-            </article>
+            </article> */}
 
             <article>
               🎵 Listening to{" "}
-              <Link href={currentSong.url}>
-                <b>{currentSong.name}</b>
-              </Link>{" "}
-              by <b>{currentSong.artist ? currentSong.artist["#text"] : ""}</b>
+              <Link href={currentSong.url}>{currentSong.name}</Link> by{" "}
+              <b>{currentSong.artist ? currentSong.artist["#text"] : ""}</b>
             </article>
 
             <article>
               🏃 <Link href="https://training.shamdasani.org">Running</Link>{" "}
-              <b>~20-30 miles</b>/week
+              <b>~20 miles</b>/week
             </article>
 
             <article>
-              📹 Vlogging on{" "}
+              📹 Videos on{" "}
               <b>
                 {" "}
                 <Link href="https://www.youtube.com/channel/UCgAp2iSxEwtZ13hWwLDfksA">
@@ -244,14 +243,14 @@ const Me = ({ trimmed }) => {
           </About>
           <Work>
             <Subtitle>
-              <b>Featured work</b>
+             Featured work
             </Subtitle>
             <Grid>
               <Row>
                 <Col sm={12} md={4}>
                   <article>
                     <Link href="https://enlight.nyc">
-                      <b>Enlight</b>
+                      Enlight
                       <br />
                       <sub> Learn to code by building projects.</sub>
                     </Link>
@@ -260,7 +259,7 @@ const Me = ({ trimmed }) => {
                 <Col sm={12} md={4}>
                   <article>
                     <Link href="https://makespp.com">
-                      <b>MakeSPP</b>
+                      MakeSPP
                       <br />
                       <sub>
                         {" "}
@@ -273,7 +272,7 @@ const Me = ({ trimmed }) => {
                 <Col sm={12} md={4}>
                   <article>
                     <Link href="https://blink.care">
-                      <b>Blink</b>
+                      Blink
                       <br />
                       <sub>
                         {" "}
@@ -288,7 +287,7 @@ const Me = ({ trimmed }) => {
                 <Col sm={12} md={4}>
                   <article>
                     <Link href="https://ticktockinc.com">
-                      <b>Tick Tock Inc.</b>
+                      Tick Tock Inc.
                       <br />
                       <sub>
                         Client e-commerce site. 1000+ products, generated from a
@@ -300,21 +299,18 @@ const Me = ({ trimmed }) => {
                 <Col sm={12} md={4}>
                   <article>
                     <Link href="https://vidyapith-act.netlify.com/">
-                      <b>Food Drive Counter</b>
+                      Food Drive Counter
                       <br />
-
                       <sub> Food counter for local nonprofit.</sub>
                     </Link>
                   </article>
                 </Col>
-               
+
                 <Col sm={12} md={4}>
                   <article>
                     <Link href="https://github.com/shamdasani/SwiftFrameworks">
-                      <b>Swift Frameworks</b>
-
+                      Swift Frameworks
                       <br />
-
                       <sub> Accepted WWDC18 Swift Playground Submission</sub>
                     </Link>
                   </article>
