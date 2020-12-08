@@ -55,7 +55,6 @@ const PostContainer = styled.article`
     margin-top: 0;
   }
 
-
   .inline {
     display: flex;
     justify-content: space-between;
@@ -70,7 +69,7 @@ const PostContainer = styled.article`
   }
 
   img {
-    max-width: 300px;
+    max-width: 500px;
   }
 
   a {
@@ -82,8 +81,6 @@ const PostContainer = styled.article`
       border-bottom: none;
     }
   }
-
-
 `
 class BlogPostTemplate extends React.Component {
   render() {
@@ -109,9 +106,9 @@ class BlogPostTemplate extends React.Component {
               <p className="center">{post.frontmatter.description}</p>
               <div className="inline">
                 <p className="date">{post.frontmatter.date}</p>
-                <p className="views">
+                {/* <p className="views">
                   <ViewCounter id={id} />
-                </p>
+                </p> */}
               </div>
             </header>
             <section dangerouslySetInnerHTML={{ __html: post.html }} />

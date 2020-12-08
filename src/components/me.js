@@ -180,15 +180,18 @@ const Me = ({ trimmed }) => {
       <Button bg="#ffb700" href="https://github.com/shamdasani">
         GitHub
       </Button>
-      <Button
+      <Button bg="#ff4136" href="https://instagram.com/samaysham">
+        Instagram
+      </Button>
+      {/* <Button
         bg="#ff4136"
         href="https://www.youtube.com/channel/UCgAp2iSxEwtZ13hWwLDfksA"
       >
         YouTube
-      </Button>
-      <Button bg="#777777" href="https://shamdasani.org/resume.pdf">
+      </Button> */}
+      {/* <Button bg="#777777" href="https://shamdasani.org/resume.pdf">
         Resume
-      </Button>
+      </Button> */}
       <Button bg="#ff41b4" href="mailto:samay@shamdasani.org">
         samay@shamdasani.org
       </Button>
@@ -196,9 +199,7 @@ const Me = ({ trimmed }) => {
       {!trimmed && (
         <div>
           <About>
-            <Subtitle>
-              Now
-            </Subtitle>
+            <Subtitle>Now</Subtitle>
 
             <article>📚 CS @ University of Michigan, Ann Arbor.</article>
 
@@ -242,9 +243,7 @@ const Me = ({ trimmed }) => {
             </article>
           </About>
           <Work>
-            <Subtitle>
-             Featured work
-            </Subtitle>
+            <Subtitle>Featured work</Subtitle>
             <Grid>
               <Row>
                 <Col sm={12} md={4}>
