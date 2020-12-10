@@ -17,7 +17,7 @@ This year started out great. I was headed back to the University of Michigan to 
 
 I could trace the beginnings of the unexpected events that followed to one afternoon in the Bursley Dining Hall. During our chat over lunch, my friends brought up rumors of a new virus spreading throughout the country. I didn't think it was a big deal at all and overlooked it. Little did I know, however, that this would change my life in ways that I would have never imagined. 
 
-<!-- ![nyc](nyc2.jpg) -->
+![nyc](nyc2.jpg)
 
 When it was time for spring break, I invited some friends over back to my place in New Jersey and we ended up exploring my favorite city in the world, New York. At this point, none of us had any idea of what was to come. I was having a great time showing my friends the city experience. I took them around midtown and downtown through the subway and we ate at my favorite spots. We even got to go to the top of Empire State, where my former internship manager greeted me with a handshake, followed by the phrase "You know, we're told that we're not supposed to do that anymore." I politely laughed it off and we continued giving the tour to my friends. 
 
@@ -31,7 +31,7 @@ As I packed up all my things and left for home, I couldn’t help but think abou
 
 ### Living during a pandemic
 
-When I got home, I started to record daily updates by making videos and writing journal entries. I followed the news, government press briefings, and the markets closely, up to the point where I was focusing all my time on how the world was changing. Protests over racial equality, debates in politics, wildfires...it was one headline after the other.
+When I got home, I started to record [daily updates](https://youtube.com/samayshamdasani) by making videos and writing journal entries. I followed the news, government press briefings, and the markets closely, up to the point where I was focusing all my time on how the world was changing. Protests over racial equality, debates in politics, wildfires...it was one headline after the other.
 
 ![pandemic](pandemic.png)
 
@@ -43,11 +43,11 @@ Personally, this was a tough transition. It felt like the world was falling apar
 
 ### Opportunity 
 
-If there's one thing that I've learned over the past few months, it's that there is opportunity everywhere. The effects of the circumstance removed all possibilities of an internship, family vacation, or social meetups and obligations. In many respects, I was free. I was able to do whatever I wanted, but I didn't want to waste my time. I knew that I wanted to work on something special.
+If there's one thing that I've learned over the past few months, it's that there is opportunity everywhere. The effects of the sudden change in circumstance at the time removed all possibilities of an internship, family vacation, or social meetups and obligations. In many respects, I was free. I was able to do whatever I wanted, but I didn't want to waste my time. I knew that I wanted to work on something special.
 
 With this in mind, I was wrapping up my freshman year when my high school friend [Max](https://maximgeller.com) called me about an interesting opportunity — participating in his college's startup accelerator program, Georgia Tech Create X. 
 
-As we thought of startups to work on, we came back to one of my personal side-projects, [Enlight](https://enlight.nyc). It was a community-driven site that hosted programming tutorials for web development and data science that I started four years ago. After agreeing that there's potential to grow the platform, I rallied together another good friend, [Varun](https://www.varunjindal.com/), and we quickly got to work. We ended up getting into the program with Enlight, and we were excited for what was to come. 
+As we thought of startups to work on, we came back to one of my personal side-projects, [Enlight](https://enlight.nyc). It was a community-driven site that hosted programming tutorials for web development and data science that I started four years ago. After agreeing that there's potential to grow the platform, I rallied together another good friend, [Varun](https://www.varunjindal.com/), and we quickly got to work. We ended up getting into the accelerator program with Enlight, and we were excited for what was to come. 
 
 ![enlight](enlight.png)
 
@@ -68,13 +68,20 @@ Online course completion rates are [~5–15%](https://files.eric.ed.gov/fulltext
 
 This summer was amazing because it taught me the power of persistance. There were so many challenges that we navigated — whether it would be managing Zoom fatigue or grinding late nights to push to releases — but it was all worth it. We're continuing to grow Enlight as full-time students, which is both stressful but rewarding. 
 
+I always come back to this summer to understand how I've grown. In all honesty, I believe that working with a team and seeing something through is perhaps one of the hardest things to do purely because of the obstacles in our way. 
+
+However, it's at those times where I force myself to remember that there is always a *way*. That nothing is impossible. And that we just have to figure it out. It's that simple. 
+
 ### Back to history
 
+While the world was (and still is) going through some tough times , I was able to find meaning in work. It's what got me through everything. 
+
 In the face of an uncertainty, I managed to create my own personal history — and I wouldn't have wanted it any other way. 
+
 
 
 <!-- Todo: 
 - fix photos
 - talk about persistance
 - talk about a specific enlight story and outcome for someone & why I loved it 
-- do the reflection essay  -->
+ -->
